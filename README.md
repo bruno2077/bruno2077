@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on JS projects.
 
-- :outbox_tray: 2021 Goals: create new projects and find a new job as web developer.
+- :outbox_tray: 2022 Goals: create new projects and find a new job as web developer.
 
 - 📫 How to reach me:
 \
